@@ -24,7 +24,7 @@
 						"locator": [0, 0, 0]
 					}
 				},
-								{
+				{
 					"name": "mascon",
 					"parent": "car3",
 					"pivot": [0, -5.2, 0]
