@@ -1,0 +1,27 @@
+item.spawn_egg.entity.mtc:mtc0314_1.name=MTC リニアL0系 Car1 召喚
+item.spawn_egg.entity.mtc:mtc0314_2.name=MTC リニアL0系 Car2 召喚
+item.spawn_egg.entity.mtc:mtc0314_3.name=MTC リニアL0系 Car3 召喚
+item.spawn_egg.entity.mtc:mtc0314_4.name=MTC リニアL0系 Car4 召喚
+item.spawn_egg.entity.mtc:mtc0314_5.name=MTC リニアL0系 Car5 召喚
+
+action.hint.exit.mtc:mtc0314_1=ジャンプで降りる
+action.hint.exit.mtc:mtc0314_2=ジャンプで降りる
+action.hint.exit.mtc:mtc0314_3=ジャンプで降りる
+action.hint.exit.mtc:mtc0314_4=ジャンプで降りる
+action.hint.exit.mtc:mtc0314_5=ジャンプで降りる
+
+mtc:mtc6373.Mode1=上り1	＃
+mtc:mtc6373.Mode2=下り1	＃
+mtc:mtc6373.Mode3=上り2	＃
+mtc:mtc6373.Mode4=下り2	＃
+mtc:mtc6373.Mode5=上り3	＃
+mtc:mtc6373.Mode6=下り3	＃
+mtc:mtc6373.Mode7=上り4	＃
+mtc:mtc6373.Mode8=下り4	＃
+
+mtc:mtc6373.Ani1=急行灯(先頭車)	＃
+mtc:mtc6373.Ani2=急行灯(後尾車)	＃
+
+mtc:mtc0314.Sound1=コンプレッサ	＃
+
+mtc:mtc0314.Horn1=警笛	＃
