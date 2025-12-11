@@ -1,0 +1,33 @@
+{
+  "entity_sounds": {
+    "entities": {
+      "mtc:mtc6373_1": {
+        "events": {
+          "step": {
+            "sound": "",
+            "volume": 0.0,
+            "pitch": 1.0
+          }
+        }
+      },
+      "mtc:mtc6373_2": {
+        "events": {
+          "step": {
+            "sound": "",
+            "volume": 0.0,
+            "pitch": 1.0
+          }
+        }
+      },
+      "mtc:mtc6373_3": {
+        "events": {
+          "step": {
+            "sound": "",
+            "volume": 0.0,
+            "pitch": 1.0
+          }
+        }
+      }
+    }
+  }
+}
