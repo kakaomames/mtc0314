@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Ver.2.0.0 Based on TBTK4MTC Made by @mca_be_official",
+        "name": "MTC 相鉄20000系",
+        "uuid": "a8c8cf69-1816-47e3-9286-b5a72d7a92e9",
+        "version": [2, 0, 0],
+        "min_engine_version": [1, 19, 50]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "6738581b-3998-4305-bcf9-dba921df1039",
+            "version": [2, 0, 0]
+        }
+    ]
+}
